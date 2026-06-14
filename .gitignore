@@ -1,0 +1,4 @@
+# VM images are large generated artifacts and should not be committed.
+vms/
+*.qcow2
+*.iso
